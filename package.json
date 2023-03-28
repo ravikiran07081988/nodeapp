@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravikiran07081988/nodeapp.git"
+  },
+  "author": "Ravikiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravikiran07081988/nodeapp/issues"
+  },
+  "homepage": "https://github.com/ravikiran07081988/nodeapp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
